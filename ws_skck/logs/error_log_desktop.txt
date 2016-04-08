@@ -1,0 +1,4 @@
+Apr 07, 2016 3:14:14 PM com.skck.ws.publisher.SkckPublisher start
+INFO: com.sun.xml.internal.ws.server.ServerRtException: Server Runtime Error: java.net.BindException: Address already in use: bind
+Apr 07, 2016 3:14:14 PM com.skck.desktop.ServiceWSDL <init>
+INFO: START SERVICE

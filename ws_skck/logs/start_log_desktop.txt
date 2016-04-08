@@ -1,0 +1,2 @@
+Apr 07, 2016 5:22:10 PM com.skck.desktop.ServiceWSDL <init>
+INFO: START SERVICE
